@@ -1,3 +1,7 @@
 html {font-family:verdana;
-      background-color:black;}
-h1 {color:white;}
+      background-color:black;
+      text-align:center;}
+      .link {font-size:16px; color:aquamarine;}
+h1 {color:white;
+    font-size: 50px;
+    }
